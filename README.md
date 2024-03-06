@@ -1,3 +1,14 @@
+# Usage & credits
+
+This project is a fork of the [Mantis Free React Material UI Dashboard Template]. 
+
+The original project is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
+
+The original project is licensed under the MIT License.
+
+The original project is managed by team [CodedThemes](https://codedthemes.com).
+
+
 # Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Mantis%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://mantisdashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
